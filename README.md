@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <a href="https://huggingface.co/guanwenhao/UniVoice" target="_blank">
+  <a href="https://univoice-demo.github.io/UniVoice" target="_blank">
     <img alt="Homepage" src="https://img.shields.io/badge/📃  Project%20Page-UniVoice-ffc107?color=ffc107&logoColor=white" />
   </a>
   </a>
@@ -30,18 +30,12 @@
   </a>
 
 </div>
-<div align="center">
-  <a href="LICENSE">
-    <img alt="Code License" src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53">
-  </a>
-</div>
 
 
 <p align="center">
   <a href="#2-model-download"><b>Model Download</b></a> |
   <a href="#3-quick-start"><b>Quick Start</b></a> |
-  <a href="#4-license"><b>License</b></a> |
-  <a href="#5-citation"><b> Citation</b></a> <br>
+  <a href="#4-citation"><b> Citation</b></a> <br>
   📄 Paper Link (<a href="https://arxiv.org/pdf/2510.04593"><b>UniVoice</b></a>)
 </p>
 
