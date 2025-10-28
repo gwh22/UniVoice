@@ -42,13 +42,8 @@
   <a href="#3-quick-start"><b>Quick Start</b></a> |
   <a href="#4-license"><b>License</b></a> |
   <a href="#5-citation"><b> Citation</b></a> <br>
-  📄 Paper Link (<a href="https://arxiv.org/abs/"><b>UniVoice</b></a>)
+  📄 Paper Link (<a href="https://arxiv.org/pdf/2510.04593"><b>UniVoice</b></a>)
 </p>
-
-
-## News
-
-**🚀 2025.03.30**: The inference codes and checkpoints are released!
 
 
 
@@ -97,9 +92,14 @@ sh scripts/infer_asr.sh
 # for TTS task
 sh scripts/infer_tts.sh
 ```
+### Training
+```shell
+cd UniVoice
+sh scripts/train_all.sh
+```
 
 
-## 4. License
+## 4. Citation
 
 Our code is released under MIT License. If our work and codebase is useful for you, please cite as:
 ```
