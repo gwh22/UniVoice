@@ -56,8 +56,8 @@ In this work, we use [SmolLM2-360M](https://huggingface.co/HuggingFaceTB/SmolLM2
 
 | Model                  | Download                                                                    |
 |----------------------|-----------------------------------------------------------------------------|
-| UniVoice-TTS | [🤗 Hugging Face](https://huggingface.co/guanwenhao/UniVoice/tree/main/univoice_tts) |
-| UniVoice-All | [🤗 Hugging Face](https://huggingface.co/guanwenhao/UniVoice/tree/main/univoice_all) |
+| UniVoice-TTS | [🤗 Hugging Face](https://huggingface.co/guanwenhao/univoice-tts) |
+| UniVoice-All | [🤗 Hugging Face](https://huggingface.co/guanwenhao/univoice-all) |
 
 
 
