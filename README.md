@@ -25,7 +25,7 @@
     <img alt="Homepage" src="https://img.shields.io/badge/📃  Project%20Page-UniVoice-ffc107?color=ffc107&logoColor=white" />
   </a>
   </a>
-  <a href="https://huggingface.co/guanwenhao/UniVoice" target="_blank">
+  <a href="https://huggingface.co/guanwenhao/univoice-all" target="_blank">
     <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-UniVoice-ffc107?color=ffc107&logoColor=white" />
   </a>
 
