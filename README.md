@@ -59,7 +59,7 @@ In this work, we use [SmolLM2-360M](https://huggingface.co/HuggingFaceTB/SmolLM2
 | UniVoice-TTS | [🤗 Hugging Face](https://huggingface.co/guanwenhao/UniVoice/tree/main/univoice_tts) |
 | UniVoice-All | [🤗 Hugging Face](https://huggingface.co/guanwenhao/UniVoice/tree/main/univoice_all) |
 
-NOTE: We now only trained a model on a 960hs LibriSpeech datatset, We will release a model trained with more data in the future.
+
 
 ## 3. Quick Start
 ### Installation
