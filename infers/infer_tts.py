@@ -64,9 +64,7 @@ def main():
     torch.cuda.empty_cache()
 
 
-    model_save_path = "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/guanwenhao-240108090032/CADEM_GEN/univoice_vita/checkpoints/univoice_heavy_110w"
-    model.save_pretrained(model_save_path, is_main_process=(dist.get_rank() == 0), safe_serialization=False, state_dict=model.state_dict())
-    model.eval().cuda()
+    
 
     wav_path = "/inspire/hdd/ws-f4d69b29-e0a5-44e6-bd92-acf4de9990f0/public-project/public/public_datas/speech/LibriSpeech/train-clean-100/103/1241/103-1241-0001.flac"
 
